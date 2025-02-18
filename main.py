@@ -10,7 +10,5 @@ st.title("Machine Learning Hub")
 
 st.sidebar.title("Navigation")
 
-st.sidebar.file_uploader("Upload a file")
-
-st.write("OpenAI: GPT Connector")
+st.write("Personal App for several different ML Models")
 

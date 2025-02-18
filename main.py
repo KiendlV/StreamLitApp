@@ -6,5 +6,11 @@ st.set_page_config(
         page_icon=get_favicon()
 )
 
-st.title("StreamLit App")
+st.title("Machine Learning Hub")
+
+st.sidebar.title("Navigation")
+
+st.sidebar.file_uploader("Upload a file")
+
+st.write("OpenAI: GPT Connector")
 
